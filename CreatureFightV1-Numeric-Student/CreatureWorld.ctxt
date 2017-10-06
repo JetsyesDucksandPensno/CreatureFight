@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CreatureWorld
+comment0.text=\r\n\ Name\:\ Blake\r\n\ Course\:\ CS20S\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Lab\#1,\ Program\#\!\r\n\ Date\ Last\ Modified\:\ October\ 6\ 2017\r\n
+comment1.params=
+comment1.target=CreatureWorld()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ class\ MyWorld\r\n
+comment2.params=
+comment2.target=void\ prepareCreatures()
+comment3.params=
+comment3.target=Creature\ getPlayerOne()
+comment4.params=
+comment4.target=Creature\ getPlayerTwo()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ act\ will\ complete\ actions\ that\ the\ CreatureWorld\ object\ should\r\n\ accomplish\ while\ the\ scenario\ is\ running\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6
